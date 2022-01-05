@@ -1,6 +1,6 @@
-# Commmonsense Knowledge-base Population
+# Commonsense Knowledge-base Population
 
-We populate commonsense knowledge dataset as known [ATOMIC 2020](https://allenai.org/data/atomic-2020). We're sharing it here, no proof for correctness. Use it with caution.
+We populate commonsense knowledgebase(CSKB) dataset as known [ATOMIC 2020](https://allenai.org/data/atomic-2020). We're sharing it here, no proof for correctness. Use it with caution.
 
 The Korean dataset is a translation of English data with Google Machine Translation API.
 
