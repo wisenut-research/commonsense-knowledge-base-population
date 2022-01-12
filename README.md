@@ -16,7 +16,11 @@ Details of the dataset can be found in the paper of [ATOMIC 2020](https://allena
 
 ### Head Extension
 
-TODO
+1) For head extraction (subject and verb), simply run
+
+```shell
+$ python atomic-2020-head-extraction/head_extraction.py
+```
 
 ### Tail Prediction 
 
