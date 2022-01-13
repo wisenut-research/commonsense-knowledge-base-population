@@ -24,7 +24,16 @@ $ python atomic-2020-head-extraction/head_extraction.py
 
 ### Tail Prediction 
 
-TODO 
+1) Download pre-trained comet-bart model
+
+2) Simply run `tail_extension_inference.py` (arguments: `head_file_path`, `beam_size`)
+
+```shell
+$ sh comet_bart_inference/download_model.sh # download BART model
+$ python comet_bart_inference/tail_extension_inference.py --head_file_path path/to/head_extension_file --beam_size 10
+```
+
+
 
 ### Post-processing 
 
