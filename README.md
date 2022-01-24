@@ -45,6 +45,6 @@ Using the following two files, the output data(triples) was cleansed and transla
 We extracted 186k (10 times) events (heads) of the existing data using the 'head extension'.
 And using 'tail prediction', a triple of 28.9M was generated.
 Finally, after performing 'post processing', it was expanded to 3.5M of data for each language.
-
+The final output is included for each language in the `./data` folder of this repository.
 
 
